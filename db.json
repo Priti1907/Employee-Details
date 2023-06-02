@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "name": "Poovizhi",
+      "email": "poo@gmail.com",
+      "phone": "7612093470",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "Ashmi",
+      "email": "Ashu@gmail.com",
+      "phone": "7708234556",
+      "active": true,
+      "id": 3
+    },
+    {
+      "name": "Soni",
+      "email": "soni@blacky07gmail.com",
+      "phone": "7791597708",
+      "active": true,
+      "id": 4
+    },
+    {
+      "name": "Geethu",
+      "email": "geethu@gmail.com",
+      "phone": "9678234560",
+      "active": true,
+      "id": 5
+    }
+  ]
+}
